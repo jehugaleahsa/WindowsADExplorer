@@ -1,3 +1,5 @@
+> *Archived 2026-03-28*: This project is very old and will no longer be maintained.
+
 # WindowsADExplorer
 Search and manage users and groups in Windows AD
 
